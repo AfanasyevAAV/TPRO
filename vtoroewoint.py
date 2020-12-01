@@ -1,0 +1,5 @@
+User_input = input ('текст\n')
+a = (User_input.count('?'))
+b = (User_input.count('!'))
+c = (User_input.count('.'))
+print (a+b+c)
